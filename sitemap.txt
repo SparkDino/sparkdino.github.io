@@ -1,6 +1,0 @@
-https://stroomix.herokuapp.com/	
-https://stroomix.herokuapp.com/watch
-https://stroomix.herokuapp.com/movie/60571067f42ae91e94b304ea
-https://stroomix.herokuapp.com/movie/6057230ee808abc4a3f8d22a
-https://stroomix.herokuapp.com/watch/60571067f42ae91e94b304ea
-https://stroomix.herokuapp.com/watch/6057230ee808abc4a3f8d22a
